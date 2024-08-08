@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "270591191222",
+    "project_id": "moto-86424",
+    "storage_bucket": "moto-86424.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270591191222:android:df61177890a16998219e17",
+        "android_client_info": {
+          "package_name": "com.example.digiposapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsKBWm5CrBOj-2F8o223rbRKvIGUP37-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
